@@ -39,7 +39,7 @@
 
     <!-- Section 1: Menu -->
     <div class="menu">
-        <span style="float:left; font-weight: bold;">Brandi</span>
+        <span style="float:left; font-weight: bold;">Brand</span>
         <a href="#biodata">Biodata</a>
         <a href="#portofolio">Portofolio</a>
     </div>
