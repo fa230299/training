@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Biodata Fahrul Afifi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .menu {
+            text-align: right;
+            padding: 10px;
+            background-color: #f2f2f2;
+        }
+        .menu a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: black;
+            font-weight: bold;
+        }
+        .section {
+            margin: 20px 0;
+        }
+        .about-buttons button {
+            margin: 5px;
+        }
+        .portfolio-img {
+            width: 350px;
+            height: 200px;
+        }
+    </style>
+    <script>
+        function ubahKonten(teks) {
+            document.getElementById("about-content").innerText = teks;
+        }
+    </script>
+</head>
+<body>
+
+    <!-- Section 1: Menu -->
+    <div class="menu">
+        <span style="float:left; font-weight: bold;">Brandi</span>
+        <a href="#biodata">Biodata</a>
+        <a href="#portofolio">Portofolio</a>
+    </div>
+
+    <!-- Section 2: Selamat Datang -->
+    <div class="section" id="biodata">
+        <table width="100%">
+            <tr>
+                <td>
+                    <h2>Selamat datang di web saya</h2>
+                    <p>Saya adalah Fahrul Afifi, Developer pemula</p>
+                </td>
+                <td>
+                    <img src="https://via.placeholder.com/600x400" width="600" height="400" alt="Foto Profil">
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Section 3: About Me -->
+    <div class="section">
+        <h2>About Me</h2>
+        <p id="about-content">sedikit tentang saya</p>
+        <div class="about-buttons">
+            <button onclick="ubahKonten('Fahrul Afifi')">Full Name</button>
+            <button onclick="ubahKonten('Lulusan S1 Teknik Informatika')">Education</button>
+            <button onclick="ubahKonten('Junior Web Developer')">Job</button>
+            <button onclick="ubahKonten('fahrul@example.com')">Contact</button>
+            <button onclick="ubahKonten('Membaca, Menulis Kode, Jalan-jalan')">Hobby</button>
+            <button onclick="ubahKonten('Bandung, Indonesia')">Alamat</button>
+        </div>
+    </div>
+
+    <!-- Section 4: Portofolio -->
+    <div class="section" id="portofolio">
+        <h2>Portofolio</h2>
+        <table width="100%">
+            <tr>
+                <td><img class="portfolio-img" src="https://via.placeholder.com/350x200" alt="Portofolio 1"></td>
+                <td><img class="portfolio-img" src="https://via.placeholder.com/350x200" alt="Portofolio 2"></td>
+                <td><img class="portfolio-img" src="https://via.placeholder.com/350x200" alt="Portofolio 3"></td>
+            </tr>
+        </table>
+    </div>
+
+</body>
+</html>
