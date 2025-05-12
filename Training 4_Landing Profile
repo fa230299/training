@@ -120,7 +120,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          Hello! I'm Fahrul Afifi, a passionate web developer with over 5 years of experience in creating responsive and user-friendly websites. I specialize in front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap and React.
+          Hello! I'm Fahrul Afifi, a passionate web developer with a years of experience in creating responsive and user-friendly websites. I specialize in front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap and React.
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
