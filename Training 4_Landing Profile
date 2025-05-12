@@ -55,8 +55,8 @@
   </nav>
 
   <header class="text-center py-5 bg-white">
-    <img src="https://via.placeholder.com/200" alt="Profile Picture" class="profile-img mb-3">
-    <h1 class="display-5">John Doe</h1>
+    <img src="https://private-user-images.githubusercontent.com/208739702/442866972-b1a4204e-d180-4adb-89fa-baf635e9a022.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcwNzA5ODIsIm5iZiI6MTc0NzA3MDY4MiwicGF0aCI6Ii8yMDg3Mzk3MDIvNDQyODY2OTcyLWIxYTQyMDRlLWQxODAtNGFkYi04OWZhLWJhZjYzNWU5YTAyMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMlQxNzI0NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTI1YTdiZTMxMWEwYzYzMjJmNTk2YzJhOWMzNjBhN2ZmN2Y4ZGE2ODcyMmVlMmNjYzIwNDFiNzI1MzdmOTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jfmx11W3s57YKp03KzgUmfbqA4B-7oCsvjUVuRr_Q0w" alt="Profile Picture" class="profile-img mb-3">
+    <h1 class="display-5">Fahrul Afifi</h1>
     <p class="lead">Web Developer | Designer | Freelancer</p>
     <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#aboutModal">Learn More</button>
   </header>
@@ -120,7 +120,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          Hello! I'm John Doe, a passionate web developer with over 5 years of experience in creating responsive and user-friendly websites. I specialize in front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap and React.
+          Hello! I'm Fahrul Afifi, a passionate web developer with over 5 years of experience in creating responsive and user-friendly websites. I specialize in front-end technologies like HTML, CSS, JavaScript, and frameworks like Bootstrap and React.
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -130,7 +130,7 @@
   </div>
 
   <footer class="bg-dark text-white text-center py-3">
-    &copy; 2025 John Doe. All rights reserved.
+    &copy; 2025 Fahrul Afifi. All rights reserved.
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
